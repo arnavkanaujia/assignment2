@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "Assignment2"
+  author: "Arnav kanaujia"
+  date: "10/29/2024"
+  chapters:
+    - index.qmd
+    - assignment.ipynb
+
+format:
+  html:
+    theme: cosmo
+ # pdf:
+   # documentclass: scrreprt
+
+
+

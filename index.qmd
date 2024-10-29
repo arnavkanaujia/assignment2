@@ -1,0 +1,7 @@
+# Preface {.unnumbered}
+ Assignment2 fcp python 
+ This assignment, the second in our series, delves into the fascinating world of Python programming. Python, known for its simplicity and readability, has become a cornerstone in the programming community. Its versatility allows for applications ranging from web development to data analysis, making it an indispensable tool for modern developers.
+
+We would like to extend our deepest gratitude to Anand sir for offering us this incredible opportunity to delve into the world of programming. Your guidance and support have been instrumental in expanding our knowledge and skills. We are immensely grateful for your patience, dedication, and the wealth of information you have shared with us. Your enthusiasm for teaching and your commitment to our learning journey have made this experience truly enriching. Thank you for inspiring us to reach new heights in our programming endeavors.  
+
+We would also like to thank Jishnu for putting in tremendous effort in our course. Your hard work and dedication have not gone unnoticed. Your contributions have significantly enriched our learning experience, and we are grateful for the time and energy you have invested to ensure our success.
